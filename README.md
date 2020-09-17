@@ -49,7 +49,7 @@ Modificar script de instalación segun sus datos, para los datos del administrad
 
 # Extras
 
-En caso de problemas, utilice alguno de estos(o todos) estos comandos.
+En caso de problemas, utilice alguno de estos(o todos) comandos.
 
 ```
 docker stop $(docker ps -aq)
