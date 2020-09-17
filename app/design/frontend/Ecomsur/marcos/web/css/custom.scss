@@ -1,0 +1,20 @@
+$white: #fff;
+$color-primary: #5c9fff;
+$bg-color: $color-primary;
+
+body{
+    background-color: $white;
+    color: $color-primary;
+
+    .panel{
+        &.wrapper {
+            background-color: $bg-color;
+            color: $white;
+        }
+    }
+
+    .page-footer{
+        background-color: $bg-color;
+        color: $white;
+    }
+}

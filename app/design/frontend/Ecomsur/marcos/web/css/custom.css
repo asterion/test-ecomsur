@@ -1,0 +1,12 @@
+body {
+  background-color: #fff;
+  color: #5c9fff;
+}
+body .panel.wrapper {
+  background-color: #5c9fff;
+  color: #fff;
+}
+body .page-footer {
+  background-color: #5c9fff;
+  color: #fff;
+}
