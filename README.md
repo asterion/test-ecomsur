@@ -12,7 +12,7 @@ a 127.0.0.1 en su /etc/hosts o equivalente según su sistema operativo.
 
 ## Docker
 
-Descargar el docker composer file [docker-compose.yml](https://gist.githubusercontent.com/asterion/cba1f5508a93503c0033fe994ddf50ff/raw/d633852e09eaea47f83476d43c4b602183ba002b/docker-compose.yml)
+Descargar el docker composer file [docker-compose.yml](https://gist.githubusercontent.com/asterion/cba1f5508a93503c0033fe994ddf50ff/raw/ab0d375dfcc75ca12343a6710ced9f6f83660545/docker-compose.yml)
 
 Modificar WEB_ALIAS_DOMAIN por el dominio local definido anteriormente.
 
